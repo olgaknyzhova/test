@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 1)iphone 11
 2)iphone12
 
+=======
+1 fndroid 10
+2 android 11
+>>>>>>> apple_pay2
